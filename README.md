@@ -1,6 +1,6 @@
 # Github Pages
 
-paltannistha.github.io
+[paltannistha.github.io](https://paltannistha.github.io/)
 
 ### How to edit?
 - Download Visual Studio Code.
