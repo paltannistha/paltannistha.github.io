@@ -16,16 +16,16 @@ minimal_mistakes_skin: "mint" #"neon" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale: "en-US"
-title: "Farhan Khan"
+title: "Tannistha Pal"
 title_separator: "|"
 subtitle: "Data Science Portfolio" # site tagline that appears below site title in masthead
-name: "Farhan Khan"
-description: "Data is my canvas and Machine Learning is my painting."
-url: "https://khanfarhan10.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: "Tannistha Pal"
+description: "Machine Learning enthusiast, love Kaggling and contributing to Open Source."
+url: "https://paltannistha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "khanfarhan10/khanfarhan10.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/assets/images/TeamFKlogo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository: "paltannistha/paltannistha.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: "/assets/images/my logo icon.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "/assets/images/my logo icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 250
@@ -70,12 +70,12 @@ naver_site_verification:
 
 # Social Sharing
 twitter:
-  username: khanfarhan10
+  username: paltannistha
 facebook:
-  username: khanfarhanh
+  username: walkers.fan
   app_id:
   publisher:
-og_image: "/assets/images/TeamFKlogo.png" # Open Graph/Twitter default site image
+og_image: "/assets/images/my logo icon.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,48 +92,48 @@ analytics:
 
 # Site Author
 author:
-  name: "Farhan Khan"
-  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "**Data** is my **canvas** and **Machine Learning** is my **painting.**"
+  name: "Tannistha Pal"
+  avatar: "/assets/images/bio-photo_tanni.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "**Machine Learning** enthusiast, love **Kaggling** and contributing to **Open Source** "
   location: "Kolkata, India."
   email:
   links:
     - label: "Gmail"
       icon: "fab fa-google"
-      url: "mailto:njrfarhandasilva10@gmail.com"
+      url: "mailto:paltannistha@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://khanfarhan10.github.io/"
+      url: "https://paltannistha.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fkpro/"
+      url: "https://www.linkedin.com/in/paltannistha/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanfarhan10"
+      url: "https://github.com/paltannistha"
     - label: "OrcID"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0001-9854-760X"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Farhan_Hai_Khan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://facebook.com/khanfarhanh"
+      url: "https://orcid.org/0000-0001-8292-3412"
+    # - label: "ResearchGate"
+    #   icon: "fab fa-researchgate"
+    #   url: "https://www.researchgate.net/profile/Farhan_Hai_Khan"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://facebook.com/khanfarhanh"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:khanfarhanpro@gmail.com"
+      url: "mailto:paltanni1999@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/itsmetheswagger"
-    - label: "StackOverflow"
-      icon: "fab fa-stack-overflow"
-      url: "https://stackoverflow.com/users/12464709/farhan-khan"
+      url: "https://twitter.com/PalTannistha"
+    # - label: "StackOverflow"
+    #   icon: "fab fa-stack-overflow"
+    #   url: "https://stackoverflow.com/users/12464709/farhan-khan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://instagram.com/i.am.the.swagger"
-    - label: "Discord"
-      icon: "fab fa-discord"
-      url: "https://discord.gg/2xzxCUY"
+      url: "https://facebook.com/walkers.fan"
+    # - label: "Discord"
+    #   icon: "fab fa-discord"
+    #   url: "https://discord.gg/2xzxCUY"
 
       
       
@@ -148,31 +148,31 @@ footer:
   links:
     - label: "Gmail"
       icon: "fab fa-google"
-      url: "mailto:njrfarhandasilva10@gmail.com"
+      url: "mailto:paltannistha@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://khanfarhan10.github.io/"
+      url: "https://paltannistha.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fkpro/"
+      url: "https://www.linkedin.com/in/paltannistha/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanfarhan10"
+      url: "https://github.com/paltannistha"
     - label: "OrcID"
       icon: "fas fa-id-card"
-      url: "https://orcid.org/0000-0001-9854-760X"
+      url: "https://orcid.org/0000-0001-8292-3412"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/itsmetheswagger"
+      url: "https://twitter.com/PalTannistha"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://instagram.com/i.am.the.swagger"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://facebook.com/khanfarhanh"
+      url: "https://facebook.com/walkers.fan"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://facebook.com/khanfarhanh"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:khanfarhanpro@gmail.com"
+      url: "mailto:paltanni1999@gmail.com"
 
 # Reading Files
 include:
