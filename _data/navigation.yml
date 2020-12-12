@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Certifications"
+    url: /courses/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Posts"
+    url: /posts/
+  - title: "Achievements"
+    url: /achievements/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "About"
+    url: /aboutme/
