@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Recursion"
 excerpt: "컴퓨터 과학에서의 재귀(Recursion)가 무엇인지 알아본다."
 toc: true
@@ -282,4 +282,4 @@ end gcd
 
 - [Recursion](https://en.wikipedia.org/wiki/Recursion)
 - [Recursion (Computer science)](<https://en.wikipedia.org/wiki/Recursion_(computer_science)>)
-- [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) -->

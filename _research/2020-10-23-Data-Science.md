@@ -22,7 +22,7 @@ header:
   caption: "Image credit: [**Jackson Wu, Medium**](https://medium.com/@jwu2/improving-collaborative-filtering-with-dimensionality-reduction-a99d08585dab)"
   actions:
     - label: "View Code on Github"
-      url: "https://github.com/khanfarhan10/DIMENSIONALITY_REDUCTION"
+      url: "https://github.com/paltannistha/DIMENSIONALITY_REDUCTION"
 use_math: true
 mathjax: true
 ---

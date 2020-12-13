@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Galleria"
 author_profile: true
 toc: true
@@ -215,4 +215,4 @@ Gallery column layout can be overrided by setting a `layout`.
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %} -->
