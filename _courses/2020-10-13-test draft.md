@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Test draft"
 author_profile: true
 toc: true
@@ -190,4 +190,4 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 [mmistakes layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout)
 
 
-Trying galleries and and feature rows.
+Trying galleries and and feature rows. -->
